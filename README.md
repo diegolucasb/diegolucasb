@@ -7,7 +7,7 @@ Hi there, my name is Lucas & I'm a Brazilian Software Engineer @ [Wunder Mobilit
 [![Telegram Badge](https://img.shields.io/badge/Telegram-diegolucasb-blue)](https://t.me/diegolucasb)
 
 ## Get in touch
-- LinkedIn: https://www.linkedin.com/in/sukru-uzel
+- LinkedIn: https://www.linkedin.com/in/lucasdiego
 - Telegram: [diegolucasb](https://t.me/diegolucasb)
 
 ---
