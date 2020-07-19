@@ -1,10 +1,19 @@
-### Hi there 👋
+# Lucas Amaral
 
+Hi there, my name is Lucas & I'm a Brazilian Software Engineer @ [Wunder Mobility](https://www.wundermobility.com/), living and working in Germany! :brazil:1x7:de:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--amaral-blue)](https://www.linkedin.com/in/lucasdiego/)
+![Countter](https://visitor-badge.laobi.icu/badge?page_id=diegolucasb.diegolucasb)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-diegolucasb-blue)](https://t.me/diegolucasb)
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/sukru-uzel
+- Telegram: [diegolucasb](https://t.me/diegolucasb)
+
+---
 <!--
 **diegolucasb/diegolucasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
