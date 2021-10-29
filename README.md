@@ -1,6 +1,6 @@
 # Lucas Diego Amaral
 
-Hi there, I'm a Brazilian Software Engineer @ [Wunder Mobility](https://www.wundermobility.com/), living and working in Germany! :brazil: 1x7 :de:
+Hi there, I'm a Brazilian Software Engineer @ [Free Now](https://free-now.com/), living, coding and working in Germany! :brazil: 1x7 :de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--amaral-blue)](https://www.linkedin.com/in/lucasdiego/)
 ![Countter](https://visitor-badge.laobi.icu/badge?page_id=diegolucasb.diegolucasb)
